@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @sheldonmmu
-- 👀 I’m interested in Python, using APIs to build, basic ML
-- 🌱 I’m currently learning web dev...
+- 🌱 I’m currently learning web dev with next.js and svelte
+- 👌 I've previously coded with Python, SQL, Docker, Git 
+- 🤖 I want to explore Rust more in the future
 - 💞️ I’m looking to collaborate with other library professionals
 - 📫 How to reach me: s.korpet@mmu.ac.uk
 
-<!---
-sheldonmmu/sheldonmmu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sw-sys&layout=compact)](https://github.com/sw-sys/github-readme-stats)
